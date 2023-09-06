@@ -1,4 +1,8 @@
 # CODSOFT
+Machine Learning Internship Tasks by @CodSoft🎉.
+
+Role Machine Learning Intern❤❤💫.
+
 Internship Tasks Submission Repository 📁
 <br>
 
@@ -44,3 +48,7 @@ Here, you'll find the collection of the tasks that I've completed as part of my 
               Features- 1) Preprocessed and cleaned a diverse SMS dataset, transforming text into numerical features for the model.
                         2) Employed Naive Bayes classifier, to differentiate spam and non-spam messages.
                         3) Achieved an accuracy of 98% in classifying SMS messages as spam or not spam.
+
+You can Reach Me or Find the Each and Every Task Videos here: https://www.linkedin.com/in/saiharsha3377/
+
+Thanks to CodSoft for providing this opportunity❤️.
